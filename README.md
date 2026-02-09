@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
