@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
