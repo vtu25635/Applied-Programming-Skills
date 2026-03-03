@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
