@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 ## Queue
 |  |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
