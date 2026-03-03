@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
