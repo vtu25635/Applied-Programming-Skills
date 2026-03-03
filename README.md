@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu25635/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
