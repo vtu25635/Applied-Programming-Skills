@@ -1,0 +1,29 @@
+class Solution {
+    public int findCircleNum(int[][] isConnected) {
+        int n = isConnected.length;
+        boolean[] visited = new boolean[n];
+        int provinces = 0;
+
+        for (int i = 0; i < n; i++) {
+            // If the city hasn't been visited, it's the start of a new province
+            if (!visited[i]) {
+                provinces++;
+                dfs(i, isConnected, visited);
+            }
+        }
+
+        return provinces;
+    }
+
+    private void dfs(int city, int[][] isConnected, boolean[] visited) {
+        visited[city] = true;
+        
+        // Check all potential connections for this city
+        for (int neighbor = 0; neighbor < isConnected.length; neighbor++) {
+            // If there's a connection and the neighbor hasn't been visited
+            if (isConnected[city][neighbor] == 1 && !visited[neighbor]) {
+                dfs(neighbor, isConnected, visited);
+            }
+        }
+    }
+}
